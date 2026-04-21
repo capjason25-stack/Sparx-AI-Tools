@@ -12,6 +12,7 @@
     ],
     "host_permissions": [
         "https://gemini.google.com/*",
+        "https://chatgpt.com/"
         "https://cdn.sparx-learning.com/*"
     ],
     "icons": {
